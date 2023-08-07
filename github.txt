@@ -1,0 +1,9 @@
+ls -lart :show hidden folder
+git init :make empty repo
+touch filename:Create New empty file
+git add -A: Insert All file
+git commit -m "Added more HTML's"
+git checkout filename: Get file which was added in buffer
+git checkout -f: all files
+git log: info with all Details
+	
